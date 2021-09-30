@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @John-Doherty0
-- 👀 I’m interested in Web Dev 💻  & Surfing 🏄 
+- 👀 I’m interested in Web Design, Web Dev 💻  & Surfing 🏄 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jjdoherty@ymail.com
